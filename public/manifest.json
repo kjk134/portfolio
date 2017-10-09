@@ -1,0 +1,21 @@
+{
+  "short_name": "Sean Lawrence",
+  "name": "Sean Lawrence - React.js Developer",
+  "description": "I'm a React.js developer based in Chicago, IL.",
+  "author": "Sean Lawrence",
+  "developer": {
+    "name": "Sean Lawrence",
+    "url": "https://seanlawrence.co"
+  },
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://seanlawrence.co",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

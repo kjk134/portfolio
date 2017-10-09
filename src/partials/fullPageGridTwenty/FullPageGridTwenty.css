@@ -1,0 +1,48 @@
+.full-page-twenty-grid-item-top {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.full-page-twenty-grid-item-bottom {
+	max-height: 80vh;
+}
+
+.twenty-div1 {
+	position: relative; 
+	overflow: hidden; 
+	white-space: nowrap;
+}
+
+.twenty-div2 {
+	position: absolute;
+	height: 100%;
+	width: 0;
+	z-index: 1;
+}
+.twenty-div3 {
+	display: inline-block;
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+}
+
+.twenty-div4 {
+	position: relative;
+	text-align: left;
+}
+
+.twenty-div5 {
+	display: inline-block;
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+}
+
+.twenty-div6 {
+	position: relative;
+	text-align: right;
+}
+

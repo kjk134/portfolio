@@ -1,0 +1,10 @@
+#social-links img {
+	max-height: 2.5rem;
+	margin: .5rem 1rem;
+}
+
+#social-links {
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}

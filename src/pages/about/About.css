@@ -1,0 +1,42 @@
+#about {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  margin: 0;
+  padding: 0;
+}
+
+.about-text {
+  display: flex;
+  flex-direction: column;
+  max-width: 25vw;
+  align-items: center;
+  padding: 2vh 5vw 0 5vw;
+}
+
+.about-image img {
+  margin-top: 7vh;
+  height: 93vh;
+  max-width: 70vw;
+}
+
+.about-image {
+  
+}
+
+h2 {
+  margin-bottom: .25rem;
+}
+
+p {
+  margin: .75rem 0;
+  font-size: 1.1rem;
+  letter-spacing: .02em;
+  color: #777;
+}
+
+a {
+  color: cornflowerblue;
+  text-decoration: none;
+}

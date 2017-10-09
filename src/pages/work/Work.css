@@ -1,0 +1,13 @@
+#work .full-page-grid-item {
+	align-items: flex-end;
+}
+
+.slider {
+  height: 100%;
+  width: .125rem;
+  background: cornflowerblue;
+}
+
+img.twenty-twenty  {
+	height: 100vh;
+}

@@ -1,0 +1,17 @@
+button,
+input[type='submit'] {
+  background: cornflowerblue;
+  border-radius: .25rem;
+  border: 0;
+  padding: .5rem 1rem;
+  color: #f9f9f9;
+  cursor: pointer;
+}
+
+button a {
+  color: #f9f9f9;
+  text-decoration: none;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: lighter;
+}

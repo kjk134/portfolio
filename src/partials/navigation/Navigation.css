@@ -1,0 +1,29 @@
+nav {
+  background: #111;
+  z-index: 1;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: .925;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 50vw;
+  margin: 1rem auto;
+}
+
+nav ul li {
+  list-style-type: none;
+  text-align: center;
+  margin: 0 5%;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #f9f9f9;
+}

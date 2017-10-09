@@ -1,0 +1,43 @@
+
+#form {
+  background-color: transparent;
+  padding: 0.5rem 2rem;
+  border-radius: .5rem;
+}
+
+#form input,
+#form textarea,
+#form select {
+  background-color: transparent;
+  padding: .5rem;
+  font-size: 1.25rem;
+  font-weight: 100;
+  color: #eee;
+  width: 80vw;
+  max-width: 30rem;
+  margin: auto;
+  border: 0;
+  border-bottom: .1rem solid cornflowerblue;
+  outline: none;
+  letter-spacing: .75px;
+}
+#form input:focus,
+#form textarea:focus {
+  outline: none;
+  border-bottom :.1rem solid #eee;
+}
+
+#form button {
+  padding: 1rem 2rem;
+  font-size: .95rem;
+}
+
+input:placeholder,
+textarea:placeholder {
+  color: rgba(255, 255, 255, 1);
+  font-weight: 400;
+ } 
+
+textarea {
+  height: 5rem;
+}
