@@ -1,12 +1,12 @@
 {
   "name": "sean-lawrence-portfolio",
-  "description" : "A portfolio site",
+  "description": "A portfolio site",
   "private": true,
-  "license" : "MIT",
-  "repository" :
-    { "type" : "git",
-      "url" : "https://github.com/seanwlawrence/portfolio.git"
-    },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/seanwlawrence/portfolio.git"
+  },
   "email": "sales@chicagowebdevelopers.co",
   "url": "https://seanlawrence.co",
   "main": "./src/app.js",
