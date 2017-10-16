@@ -1,7 +1,7 @@
-#Sean Lawrence
+# Sean Lawrence
 ____
 
-##Summary
+## Summary
 
 I'm a front end JavaScript Developer that designs and creates UI/UX for websites and applications using modern tools and libraries, like React.js, Express.js, Node.js, Webpack, jQuery, HTML5 and CSS3. 
 
@@ -16,9 +16,9 @@ I'm a front end JavaScript Developer that designs and creates UI/UX for websites
 
 *Stands for - Single Page Applications/Progressive Web Applications
 
-##Experience
+## Experience
 
-###[Beastgrip](https://beastgrip.com)
+### [Beastgrip](https://beastgrip.com)
 (January 2015 - Current) - **Front end developer / VP of Business Development** 
 
 Beastgrip is a mobile photography and film making gear startup. I focus on scaling the business by creating web applications.
@@ -31,7 +31,7 @@ Beastgrip is a mobile photography and film making gear startup. I focus on scali
 
 * **Product bundler** - (in progress) - a SPA that walks a customer through the experience of creating their own custom camera rig. When clicked, a modal displays product information and an image gallery.Tools/libraries used: Express.js w/ ES6, Handlebars, REST API, and AJAX.
 
-###[Chicago Web Developers](https://chicagowebdevelopers.co)
+### [Chicago Web Developers](https://chicagowebdevelopers.co)
 (August 2016 - Current) - Lead developer
 
 This is a freelance web development agency I started to work on projects in my free time.
@@ -42,7 +42,7 @@ This is a freelance web development agency I started to work on projects in my f
 
 * [**Miller Street Studios**](http:millerstreetstudios.com) - An informational website for a local music recording studio. Includes embedded content from SoundCloud, embedded Google Map showing their location and an image gallery and contact form. Tools/libraries used: WordPress, Creativo theme, Google Maps and SoundCloud APIs.
 
-##Want to know more?
+## Want to know more?
 Learn more about me at [seanlawrence.co](https://seanlawrence.co) and on my [LinkedIn](https://www.linkedin.com/in/sean-lawrence-21792799/) profile.
 
 **References and code samples available upon request.**
