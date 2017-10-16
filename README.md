@@ -1,5 +1,4 @@
 # Sean Lawrence
-____
 
 ## Summary
 
